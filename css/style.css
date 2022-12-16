@@ -1,0 +1,62 @@
+.reset {
+  background-color: #ff0073;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  margin: 5px;
+}
+
+
+.search {
+  padding: 7px;
+  background-color: #15b420;
+  color: rgb(255, 255, 255);
+}
+
+.top {
+  padding: 20px;
+  text-align: center;
+}
+
+.home {
+  padding: 20px;
+  text-align: center;
+}
+
+.navbar {
+  max-width: 1200px;
+}
+
+.create {
+  background-color: #fde804;
+  color: rgb(0, 0, 0);
+  padding: 4px;
+  margin: 0px, auto;
+  font-size: 25px;
+}
+
+.create-a {
+  text-transform: uppercase;
+}
+
+.viewtotal {
+  text-transform: uppercase;
+  background-color: #8809ea;
+  color: rgb(255, 255, 255);
+  padding: 10px 10px 5px;
+  margin: 5px;
+  font-size: 20px;
+}
+
+.title {
+  background-color: #de8014;
+  color: rgb(255, 255, 255);
+  padding: 5px;
+  margin: 0px auto;
+  font-size: 50px;
+  text-align: center;
+}
+
+.sum {
+  background-color: #1a9c98;
+  color: rgb(255, 255, 255)
+}
